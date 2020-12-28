@@ -1,0 +1,33 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FT2232HQ
+D Hi Speed Double Channel USB UART/FIFO, QFN-64
+K USB Double UART FIFO
+F https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT2232H.pdf
+$ENDCMP
+#
+$CMP SG-531
+D CMOS Crystal Clock Oscillator, DIP8-style plastic package
+K Crystal Clock Oscillator
+F https://support.epson.biz/td/api/doc_check.php?mode=dl&lang=en&Parts=SG-51P
+$ENDCMP
+#
+$CMP SG-8101CB
+D Crystal Clock Oscillator, SMD 5.0 x 3.2
+K Crystal Clock Oscillator
+F https://datasheet.lcsc.com/szlcsc/1912111437_Seiko-Epson-SG-8101CG-50-000000MHz-TCHPA_C390545.pdf
+$ENDCMP
+#
+$CMP USB_B_Micro_Molex_1050170001
+D USB Micro Type B connector
+K connector USB micro
+F ~
+$ENDCMP
+#
+$CMP USB_B_Mini
+D USB Mini Type B connector
+K connector USB mini
+F ~
+$ENDCMP
+#
+#End Doc Library

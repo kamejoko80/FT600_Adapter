@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name FT600Q-T)(type Legacy)(uri ${KIPRJMOD}/lib/symbol/FT600Q-T.lib)(options "")(descr ""))
+  (lib (name CX70M-24P1)(type Legacy)(uri ${KIPRJMOD}/lib/symbol/CX70M-24P1.lib)(options "")(descr ""))
+  (lib (name ERB-RD3R00X)(type Legacy)(uri ${KIPRJMOD}/lib/symbol/ERB-RD3R00X.lib)(options "")(descr ""))
+)
