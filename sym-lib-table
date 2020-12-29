@@ -2,4 +2,6 @@
   (lib (name FT600Q-T)(type Legacy)(uri ${KIPRJMOD}/lib/symbol/FT600Q-T.lib)(options "")(descr ""))
   (lib (name CX70M-24P1)(type Legacy)(uri ${KIPRJMOD}/lib/symbol/CX70M-24P1.lib)(options "")(descr ""))
   (lib (name ERB-RD3R00X)(type Legacy)(uri ${KIPRJMOD}/lib/symbol/ERB-RD3R00X.lib)(options "")(descr ""))
+  (lib (name GSB3211311WEU)(type Legacy)(uri ${KIPRJMOD}/lib/symbol/GSB3211311WEU.lib)(options "")(descr ""))
+  (lib (name 692622030100)(type Legacy)(uri ${KIPRJMOD}/lib/symbol/692622030100.lib)(options "")(descr ""))
 )

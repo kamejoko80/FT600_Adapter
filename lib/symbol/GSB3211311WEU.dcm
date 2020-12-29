@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP USB3_B
+D USB 3.0 B connector
+K usb universal serial bus
+F ~
+$ENDCMP
+#
+#End Doc Library
