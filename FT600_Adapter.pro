@@ -1,4 +1,4 @@
-update=12/29/2020 10:26:26 AM
+update=12/31/2020 10:05:37 PM
 version=1
 last_client=kicad
 [general]
@@ -249,7 +249,7 @@ dPairViaGap=0.25
 [pcbnew/Netclasses/1]
 Name=GND
 Clearance=0.15
-TrackWidth=0.35
+TrackWidth=0.25
 ViaDiameter=0.45
 ViaDrill=0.2
 uViaDiameter=0.3
@@ -258,6 +258,17 @@ dPairWidth=0.1
 dPairGap=0.18
 dPairViaGap=0.25
 [pcbnew/Netclasses/2]
+Name=Outer_Impedance_50_90
+Clearance=0.15
+TrackWidth=0.12
+ViaDiameter=0.45
+ViaDrill=0.2
+uViaDiameter=0.3
+uViaDrill=0.1
+dPairWidth=0.12
+dPairGap=0.18
+dPairViaGap=0.25
+[pcbnew/Netclasses/3]
 Name=PWR
 Clearance=0.15
 TrackWidth=0.25
